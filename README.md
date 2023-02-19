@@ -1,1 +1,2 @@
 # odin-recipes
+For this html, I will try to create a webpage which contains various recipes I found online. Since I enjoy eating Korean foods, I will incorporate Korean cuisines inside my webpage using what I've learned on the odin project site: headings, lists, images, links, etc.
